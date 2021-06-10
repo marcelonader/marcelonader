@@ -1,10 +1,19 @@
-![hello](javascript.gif)
+<!-- ![hello](javascript.gif)
+ -->
+<!-- # Welcome to my page!!! :smiley: I'm Marcelo!!!  -->
 
-# Welcome to my page!!! :smiley: I'm Marcelo!!! 
-
-
+<!-- 
 > I am a lawyer in career transition to the technology area. I'm dedicating myself to becoming a great software developer soon.
-
+ -->
+```html
+<body>
+  <h1>Welcome to my page!!! 😃 I'm Marcelo!!!</h1>
+  <p>
+    I am a lawyer in career transition to the technology area. 
+    I'm dedicating myself to becoming <strong>a great software developer</strong> soon.
+  </p>
+<body>
+```
 
 ##
 

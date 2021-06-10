@@ -6,15 +6,18 @@
 > I am a lawyer in career transition to the technology area. I'm dedicating myself to becoming a great software developer soon.
  -->
 ```html
->[...]
-  <body>
-    <h1>Welcome to my page!!! 😃 I'm Marcelo!!!</h1>
-    <p>
-      I am a lawyer in career transition to the technology area. 
-      I'm dedicating myself to becoming <strong>a great software developer</strong> soon.
-    </p>
-  <body>
->[...]
+  <!DOCTYPE html>
+  <html lang="en">
+>   <head>...
+    </head>
+    <body>
+      <h1>Welcome to my page!!! 😃 I'm Marcelo!!!</h1>
+      <p>
+        I am a lawyer in career transition to the technology area. 
+        I'm dedicating myself to becoming <strong>a great software developer</strong> soon.
+      </p>
+   <body>
+  </html>
 ```
 
 ##

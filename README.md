@@ -1,5 +1,5 @@
-![hello](javascript.gif)
-
+<!-- ![hello](javascript.gif)
+ -->
 # Welcome to my page!!! :smiley: I'm Marcelo!!! 
 
 

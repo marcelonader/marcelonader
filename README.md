@@ -13,7 +13,7 @@
     <body>
       <h1>Welcome to my page!!! 😃 I'm Marcelo!!!</h1>
       <p>
-        I am a lawyer in career transition to the technology area. 
+        I'm a lawyer in career transition to the technology area. 
         I'm dedicating myself to becoming <strong>a great software developer</strong> soon.
       </p>
    <body>
